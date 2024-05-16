@@ -70,7 +70,7 @@ L'applicazione dovrà permettere di:
 2. Creazione di container Docker per i vari elementi dell'applicazione
 
 
-----------------___
+----------------____
 
 Pacchetti da installare
 
